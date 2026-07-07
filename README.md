@@ -36,10 +36,3 @@ The goal of this project is to build a high-performance Machine Learning model t
 * **Language:** Python 🐍
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 * **Environment:** Jupyter Notebook, Git
-
----
-
-## 🛠️ Tech Stack & Tools
-* **Language:** Python 🐍
-* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
-* **Environment:** Jupyter Notebook, Virtual Environments (`venv`)

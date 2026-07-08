@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # California Housing Price Prediction 🏡📊
 
 This repository contains my implementation and notes for the California Housing Prices project from the renowned book **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron. 
@@ -39,4 +39,4 @@ The goal of this project is to build a high-performance Machine Learning model t
 * **Language:** Python 🐍
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 * **Environment:** Jupyter Notebook, Git
-EOF
+
